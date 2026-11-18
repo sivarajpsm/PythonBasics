@@ -1,0 +1,10 @@
+
+practice.py
+
+# Virtual environment
+venv/
+.venv/
+
+# Editor and OS files
+.vscode/
+.DS_Store
